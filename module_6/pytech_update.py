@@ -1,8 +1,3 @@
-#pytech_update.py
-#Brendan Spurlock
-#07/07/2023
-#Updating a pytech document
-
 #import statements and data required for connection
 from pymongo import MongoClient
 url = "mongodb+srv://admin:admin@cluster0.xoqvfke.mongodb.net/pytech?retryWrites=true&w=majority"
